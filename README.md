@@ -27,7 +27,7 @@ bash runExample.sh
 
 within a terminal. If everything went well the output should look like
 
-![alt text](https://github.com/omelchert/MCS2018_Networks/blob/master/myGraph.pdf)
+![alt text](https://github.com/omelchert/MCS2018_Networks/blob/master/myGraph.png)
 
 ## License
 
