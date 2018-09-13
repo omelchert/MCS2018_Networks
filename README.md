@@ -25,7 +25,9 @@ The provided material implements an example that, assuming a Unix environment, c
 bash runExample.sh
 ```
 
-within a terminal.
+within a terminal. If everything went well the output should look like
+
+![alt text](https://github.com/omelchert/MCS2018_Networks/blob/master/myGraph.pdf)
 
 ## License
 
